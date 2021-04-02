@@ -85,11 +85,25 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.2.1"
+  fleva_icons:
+    dependency: "direct main"
+    description:
+      name: fleva_icons
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.2"
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_snake_navigationbar:
+    dependency: "direct main"
+    description:
+      name: flutter_snake_navigationbar
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter

@@ -16,7 +16,7 @@ ThemeData theme() {
 TextTheme textTheme() {
   return TextTheme(
       headline6: TextStyle(
-      color: Color(0xFF8B8B8B),
+      color: Colors.black,
       fontSize: 18,
       ),
     );
