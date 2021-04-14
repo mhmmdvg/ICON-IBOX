@@ -30,7 +30,13 @@ dependencies:
   cupertino_icons: ^1.0.0
   google_fonts: ^1.1.2
   flutter_snake_navigationbar: ^0.4.4
+  eva_icons_flutter: ^2.0.1
+  flutter_bloc: ^6.1.1
   fleva_icons: ^1.0.2
+  onesignal_flutter: ^2.4.1
+  http: ^0.12.2
+  async: ^2.4.0
+  overlay_support: ^1.0.5
 
 dev_dependencies:
   flutter_test:
@@ -71,6 +77,7 @@ flutter:
     - family: OpenSans
       fonts:
       - asset: assets/fonts/Open_Sans/OpenSans-Regular.ttf
+      - asset: assets/fonts/Open_Sans/OpenSans-SemiBold.ttf
       - asset: assets/fonts/Open_Sans/OpenSans-Bold.ttf
         weight: 700
       - asset: assets/fonts/Open_Sans/OpenSans-Light.ttf
